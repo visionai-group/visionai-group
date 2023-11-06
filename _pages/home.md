@@ -57,7 +57,7 @@ VisionAI group at CSIR-CEERI consists of a dynamic and forward-thinking team ded
 </div>
 
 
-From pioneering lensless imaging techniques to tackling complex challenges like face anti-spoofing, fall detection using neuromorphic sensors, human eye-gaze prediction with neuromorphic sensors, and video action recognition, we continuously strive to explore innovative solutions to real-world problems. Additionally, our expertise extends to areas such as facial expression recognition, encompassing a holistic approach to computer vision and machine learning. Our team's unwavering commitment to excellence and innovation makes us a hub for groundbreaking research and technology development in these multifaceted domains.
+From pioneering lensless imaging techniques to tackling complex challenges like face anti-spoofing, fall detection using neuromorphic sensors, human eye-gaze prediction with neuromorphic sensors, and video action recognition, we continuously strive to explore innovative solutions to real-world problems. Additionally, our expertise extends to areas such as facial expression recognition, encompassing a holistic approach to computer vision and machine learning. Our team's unwavering commitment to excellence and innovation makes us a hub for groundbreaking research and technology development in these multifaceted domains. Our distinctive engagement with both the academic and industrial sectors has led to the initiation of funded projects and valuable collaborations with prominent organizations such as LG, Samsung, the Council for Scientific and Industrial Research, the Department of Science and Technology, and various others.  
 
  **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -65,8 +65,15 @@ From pioneering lensless imaging techniques to tackling complex challenges like 
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/csir-removebg.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DST-removebg.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/samsung-removebg.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lg-removebg.png" style="width: 110px">
+</figure>
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bits-removebg.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hiro-removebg.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iitind-removebg.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/naga-removebg.png" style="width: 110px">
 </figure>
