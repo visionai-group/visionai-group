@@ -6,7 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-This is the official website of Vision and AI Research group at the [CSIR-CEERI](https://www.ceeri.res.in/)
+This is the official website of Vision and AI Research group at the [CSIR-CEERI](https://www.ceeri.res.in/).
+<figure class="first">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/visionai-removebg.png" style="width: 410px">
+</figure>
+
+VisionAI group at CSIR-CEERI consists of a dynamic and forward-thinking team dedicated to pushing the boundaries of computational imaging and artificial intelligence. With a keen focus on advancing cutting-edge technologies, our research spans a wide spectrum of interests.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -52,7 +57,7 @@ This is the official website of Vision and AI Research group at the [CSIR-CEERI]
 </div>
 
 
-VisionAI group at CSIR-CEERI consists of a dynamic and forward-thinking team dedicated to pushing the boundaries of computational imaging and artificial intelligence. With a keen focus on advancing cutting-edge technologies, our research spans a wide spectrum of interests. From pioneering lensless imaging techniques to tackling complex challenges like face anti-spoofing, fall detection using neuromorphic sensors, human eye-gaze prediction with neuromorphic sensors, and video action recognition, we continuously strive to explore innovative solutions to real-world problems. Additionally, our expertise extends to areas such as facial expression recognition, encompassing a holistic approach to computer vision and machine learning. Our team's unwavering commitment to excellence and innovation makes us a hub for groundbreaking research and technology development in these multifaceted domains.
+From pioneering lensless imaging techniques to tackling complex challenges like face anti-spoofing, fall detection using neuromorphic sensors, human eye-gaze prediction with neuromorphic sensors, and video action recognition, we continuously strive to explore innovative solutions to real-world problems. Additionally, our expertise extends to areas such as facial expression recognition, encompassing a holistic approach to computer vision and machine learning. Our team's unwavering commitment to excellence and innovation makes us a hub for groundbreaking research and technology development in these multifaceted domains.
 
  **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
