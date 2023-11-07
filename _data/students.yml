@@ -8,18 +8,59 @@
 #  education3:
 #  education4:
 
-- name: Ilse Kuijf 
+- name: Shyam Sunder Prasad 
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+  info: PhD student
+  email: shyam.ceeri15a@acsir.res.in
+  number_educ: 1
+  education1: Architectures for Deep/Spiking Neural Networks for Computer Vision Applications
 
-- name: Tessa Van der Ent
+- name: Naval Kishore Mehta
   photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+  info: Integrated PhD student
+  email: naval.ceeri18a@acsir.res.in
+  number_educ: 1
+  education1: Video Action Recognition
+
+- name: Seema Choudhary
+  photo: rock.jpg
+  info: PhD Candidate
+  email: seema.ceeri21j@acsir.res.in
+  number_educ: 1
+  education1: Vision-based Systems for Intelligent Monitoring
+
+- name: Abeer Banerjee
+  photo: rock.jpg
+  info: Integrated PhD student
+  email: abeer.ceeri20a@acsir.res.in
+  number_educ: 1
+  education1: Computational Imaging
+
+- name: Himanshu Kumar
+  photo: rock.jpg
+  info: Project Associate-I
+  email: himanshu.ceeri20a@acsir.res.in
+  number_educ: 1
+  education1: Image Synthesis and Generation
+
+- name: Arvind Sihag
+  photo: rock.jpg
+  info: Senior Project Associate
+  email: arvind.ceeri20a@acsir.res.in
+  number_educ: 1
+  education1: System Integration and Network Management
+
+- name: Rakesh Kumar
+  photo: rock.jpg
+  info: PhD student
+  email: rakesh.ceeri23j@acsir.res.in
+  number_educ: 1
+  education1: Vision-based Systems for Intelligent Monitoring
+
+
+
+
+
+
 
 
