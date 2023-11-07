@@ -1,5 +1,5 @@
 - title: "Reconstructing Synthetic Lensless Images in the Low-Data Regime"
-  image: imageaward_edited.png
+  image: bmvc.png
   description: Our paper shows that it is possible to perform domain-restricted low-shot reconstruction of lensless computational images. We demonstrate an improvement in the reconstruction performance of untrained neural networks by providing very few domain-restricted images for pre-training. We were able to achieve faster convergence with higher reconstruction fidelity with as low as 10 images for pre-training.
   authors: Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
   link:
@@ -7,14 +7,14 @@
     display: BMVC 2023-British Machine Vision Conference, Aberdeen, UK
   highlight: 1
 
-- title: "Why shot noise does not generally detect pairing in mesoscopic superconducting tunnel junctions"
+- title: "Physics-informed Deep Deblurring: Over-Parameterized Vs. Under-Parameterized"
   image: imageaward_edited.png
-  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
-  authors: JJiasen Niu, Koen M. Bastiaans, Jianfeng Ge, Ruchi Tomar, John Jesudasan, Pratap Raychaudhuri, Max Karrer, Reinhold Kleiner, Dieter Koelle, Arnaud Barbier, Eduard F.C. Driessen, Yaroslav M. Blanter, Milan P. Allan
+  description: Our paper shows that lensless images can be reconstructed using under-parameterized networks with less than 10 thousand parameters. We compare the reconstruction performance with untrained over-parameterized networks having over 30 million parameters. We employ a physics-informed consistency loss function to optimize our network, leading to faster convergence and better reconstruction quality.
+  authors: Abeer Banerjee, Sumeet Saurav, Sanjay Singh
   link:
-    url: https://arxiv.org/abs/2306.02397
-    display: arXiv
-  highlight: 0
+    url: https://abeerbanerjee.github.io/pidd/
+    display: ICIP 2023-International Conference on Image Processing, Kuala Lumpur, Malaysia
+  highlight: 1
 
 - title: "Puddle formation, persistent gaps, and non-mean-field breakdown of superconductivity in overdoped (Pb,Bi)2Sr2CuO6+δ"
   image: BSCCOgap.png
