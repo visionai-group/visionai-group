@@ -9,49 +9,49 @@
 #  education4:
 
 - name: Shyam Sunder Prasad 
-  photo: rock.jpg
+  photo: Shyam.png
   info: PhD student
   email: shyam.ceeri15a@acsir.res.in
   number_educ: 1
   education1: Architectures for Deep/Spiking Neural Networks for Computer Vision Applications
 
 - name: Naval Kishore Mehta
-  photo: rock.jpg
+  photo: Naval.png
   info: Integrated PhD student
   email: naval.ceeri18a@acsir.res.in
   number_educ: 1
   education1: Video Action Recognition
 
 - name: Seema Choudhary
-  photo: rock.jpg
+  photo: seema.jpg
   info: PhD student
   email: seema.ceeri21j@acsir.res.in
   number_educ: 1
   education1: Vision-based Systems for Intelligent Monitoring
 
 - name: Abeer Banerjee
-  photo: rock.jpg
+  photo: me2023pass.jpg
   info: Integrated PhD student
   email: abeer.ceeri20a@acsir.res.in
   number_educ: 1
   education1: Computational Imaging
 
 - name: Himanshu Kumar
-  photo: rock.jpg
+  photo: himanshu.png
   info: Project Associate-I
   email: himanshu.ceeri20a@acsir.res.in
   number_educ: 1
   education1: Image Synthesis and Generation
 
 - name: Arvind Sihag
-  photo: rock.jpg
+  photo: arvind.jpeg
   info: Senior Project Associate
   email: arvind.ceeri20a@acsir.res.in
   number_educ: 1
   education1: System Integration and Network Management
 
 - name: Rakesh Kumar
-  photo: rock.jpg
+  photo: rakesh.jpeg
   info: PhD student
   email: rakesh.ceeri23j@acsir.res.in
   number_educ: 1
