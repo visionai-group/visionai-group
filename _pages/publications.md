@@ -52,10 +52,14 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+## Copyrights
+<em>Madan Kumar Lakshmanan, Sumeet Saurav, Sanjay Singh</em><br />Smart Camera-based remote Plethysmography Techniques for Non-contact Vitals Monitoring<br /> CR Diary/Application No. 15368/2023-CO/SW, Date of Filing: 02/06/2023, Registration No. SW-16892/2023, Date of Registration: 17/07/2023.
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Shyam Sunder Prasad, Naval Kishore Mehta, Abeer Banerjee, Sumeet Saurav, Ravi Saini, Sanjay Singh</em><br /> AI-based Software Package for Real-time Face Anti-spoofing in Unconstrained Natural Environment <br /> CR Diary/Application No. 15783/2023-CO/SW, Date of Filing: 08/06/2023, Registration No. SW-16929/2023, Date of Registration: 20/07/2023.
+
+<em>Shyam Sunder Prasad, Naval Kishore Mehta, Sumeet Saurav, Ravi Saini, Sanjay Singh</em><br /> AI-enabled Software Pipeline for Real-time Face Recognition-based Attendance System <br /> CR Diary/Application No. 14881/2023-CO/SW, Date of Filing: 30/05/2023, Registration No. SW-17031/2023, Date of Registration: 03/08/2023.
+
+<em>Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh</em><br /> AI-enabled Software Module for Realistic Colorization of Grayscale Images <br /> CR Diary/Application No. 15782/2023-CO/SW, Date of Filing: 08/06/2023, Registration No. SW-17058/2023, Date of Registration: 08/08/2023.
 
 ## Full List of publications
 
