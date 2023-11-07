@@ -1,7 +1,7 @@
 - title: "STemGAN: Spatio-Temporal Generative Adversarial Network for Video Anomaly detection"
   image: BSCCOgap.png
   description:
-  authors: Rituraj, Krishanu Saini, Anikeit Sethi, Aruna Tiwari, Sumeet Saurav, and Sanjay Singh
+  authors: Rituraj, Krishanu Saini, Anikeit Sethi, Aruna Tiwari, Sumeet Saurav, Sanjay Singh
   link:
     url: https://doi.org/10.1007/s10489-023-04940-7
     display: Applied Intelligence, Springer, 2023 (SCI Impact Factor – 5.3)
@@ -19,7 +19,7 @@
 - title: "VALD-GAN: Video Anomaly detection using Latent Discriminator augmented GAN"
   image: BSCCOgap.png
   description: 
-  authors: Rituraj Singh, Anikeit Sethi, Krishanu Saini, Sumeet Saurav, Aruna Tiwari, and Sanjay Singh
+  authors: Rituraj Singh, Anikeit Sethi, Krishanu Saini, Sumeet Saurav, Aruna Tiwari, Sanjay Singh
   link:
     url: https://doi.org/10.1007/s11760-023-02750-5
     display: Signal, Image and Video Processing, Springer, 2023 (SCI Impact Factor – 2.3)
@@ -28,7 +28,7 @@
 - title: "JS-SpoofNet: A Jointly Supervised Parallel Branched Neural Network for Spoof Detection"
   image: BSCCOgap.png
   description: 
-  authors: Shyam Sunder Prasad, Naval Kishore Mehta, Abeer Banerjee, Sumeet Saurav, and Sanjay Singh
+  authors: Shyam Sunder Prasad, Naval Kishore Mehta, Abeer Banerjee, Sumeet Saurav, Sanjay Singh
   link:
     url: https://doi.org/10.1016/j.neucom.2023.126610
     display: Neurocomputing, Elsevier, 2023 (SCI Impact Factor – 6.0)
@@ -87,6 +87,42 @@
     url: https://abeerbanerjee.github.io/pidd/
     display: ICIP 2023-International Conference on Image Processing, Kuala Lumpur, Malaysia
   highlight: 1
+
+- title: "Video Anomaly Latent Training GAN (VALT-GAN): Enhancing Anomaly Detection through Latent Space Mining"
+  image: BSCCOgap.png
+  description: 
+  authors: Anikeit Sethi, Krishanu Saini, Rituraj Singh, Aruna Tiwari, Sumeet Saurav, Sanjay Singh, Vikas Chauhan
+  link:
+    url: 
+    display: IEEE SSCI 2023-IEEE Symposium Series on Computational Intelligence, Mexico City, Mexico
+  highlight: 0
+
+- title: "Hybrid SNN-based Privacy-Preserving Fall Detection using Neuromorphic Sensors"
+  image: BSCCOgap.png
+  description: 
+  authors: Shyam Sunder Prasad, Naval Kishore Mehta, Himanshu Kumar, Abeer Banerjee, Sumeet Saurav, Sanjay Singh
+  link:
+    url: 
+    display: ICVGIP 2023-Indian Conference on Computer Vision, Graphics and Image Processing, IIT Ropar, India
+  highlight: 0
+
+- title: "Analyzing the impact of Instagram filters on facial expression recognition algorithms"
+  image: BSCCOgap.png
+  description: 
+  authors: Gupta Jayshree, Sumeet Saurav, Sanjay Singh
+  link:
+    url: 
+    display: CVIP 2023-International Conference on Computer Vision and Image Processing, IIT Jammu, India
+  highlight: 0
+
+- title: "MAAD-GAN: Memory-Augmented Attention-based Discriminator GAN for Video Anomaly Detection"
+  image: BSCCOgap.png
+  description: 
+  authors: Anikeit Sethi, Krishanu Saini, Rituraj Singh, Aruna Tiwari, Sumeet Saurav, Sanjay Singh, Vikas Chauhan
+  link:
+    url: 
+    display: CVIP 2023-International Conference on Computer Vision and Image Processing, IIT Jammu, India
+  highlight: 0
 
 
   
