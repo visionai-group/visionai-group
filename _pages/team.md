@@ -140,14 +140,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>MTech Students</h4>
+<h4>Master's Students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>MS Students</h4>
+<h4>Other members</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
