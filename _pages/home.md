@@ -62,16 +62,18 @@ From pioneering lensless imaging techniques to tackling complex challenges like 
 
 
 
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/csir-removebg.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DST-removebg.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/samsung-removebg.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lg-removebg.png" style="width: 110px">
+<figure class="sixth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/csir-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DST-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/meity-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/samsung-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lg-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kh-removebg.png" style="width: 100px">
 </figure>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bits-removebg.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hiro-removebg.png" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iitind-removebg.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/naga-removebg.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bits-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/hiro-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iitind-removebg.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/naga-removebg.png" style="width: 100px">
 </figure>
