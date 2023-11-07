@@ -1,5 +1,5 @@
 - title: "Reconstructing Synthetic Lensless Images in the Low-Data Regime"
-  image: bmvc.gif
+  image: bmvc.png
   description: Our paper shows that it is possible to perform domain-restricted low-shot reconstruction of lensless computational images. We demonstrate an improvement in the reconstruction performance of untrained neural networks by providing very few domain-restricted images for pre-training. We were able to achieve faster convergence with higher reconstruction fidelity with as low as 10 images for pre-training.
   authors: Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
   link:
