@@ -6,12 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-This is the official website of Vision and AI Research group at the [CSIR-CEERI](https://www.ceeri.res.in/).
 <figure class="first">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/visionai-removebg.png" style="width: 410px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vai-removebg.png" style="width: 420px">
 </figure>
-
-VisionAI group at CSIR-CEERI consists of a dynamic and forward-thinking team dedicated to pushing the boundaries of computational imaging and artificial intelligence. With a keen focus on advancing cutting-edge technologies, our research spans a wide spectrum of interests.
+This is the official website of Vision and AI Research Group (VisionAI) at the [CSIR-CEERI](https://www.ceeri.res.in/). VisionAI group at CSIR-CEERI consists of a dynamic and forward-thinking team dedicated to pushing the boundaries of computational imaging and artificial intelligence. With a keen focus on advancing cutting-edge technologies, our research spans a wide spectrum of interests.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
