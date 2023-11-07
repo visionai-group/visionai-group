@@ -1,3 +1,75 @@
+- title: "STemGAN: Spatio-Temporal Generative Adversarial Network for Video Anomaly detection"
+  image: BSCCOgap.png
+  description:
+  authors: Rituraj, Krishanu Saini, Anikeit Sethi, Aruna Tiwari, Sumeet Saurav, and Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s10489-023-04940-7
+    display: Applied Intelligence, Springer, 2023 (SCI Impact Factor – 5.3)
+  highlight: 0
+
+- title: "ParaColorizer: Realistic Image Colorization using Parallel Generative Networks"
+  image: BSCCOgap.png
+  description: We developed GANs for simultaneous foreground and background colorization, with a dense adaptive fusion network. Our method outperformed existing ones with limited training data. We also introduced a new human-visual realism test to address limitations in traditional metrics.
+  authors: Himanshu Kumar*, Abeer Banerjee*, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s00371-023-03067-7
+    display: The Visual Computer, Springer, 2023 (SCI Impact Factor – 3.5)
+  highlight: 0
+
+- title: "VALD-GAN: Video Anomaly detection using Latent Discriminator augmented GAN"
+  image: BSCCOgap.png
+  description: 
+  authors: Rituraj Singh, Anikeit Sethi, Krishanu Saini, Sumeet Saurav, Aruna Tiwari, and Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s11760-023-02750-5
+    display: Signal, Image and Video Processing, Springer, 2023 (SCI Impact Factor – 2.3)
+  highlight: 0
+
+- title: "JS-SpoofNet: A Jointly Supervised Parallel Branched Neural Network for Spoof Detection"
+  image: BSCCOgap.png
+  description: 
+  authors: Shyam Sunder Prasad, Naval Kishore Mehta, Abeer Banerjee, Sumeet Saurav, and Sanjay Singh
+  link:
+    url: https://doi.org/10.1016/j.neucom.2023.126610
+    display: Neurocomputing, Elsevier, 2023 (SCI Impact Factor – 6.0)
+  highlight: 0
+
+- title: "Capsule Networks for Computer Vision Applications: A Comprehensive Review"
+  image: BSCCOgap.png
+  description: 
+  authors: Seema Choudhary, Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s10489-023-04620-6
+    display: Applied Intelligence, Springer, 2023 (SCI Impact Factor – 5.3)
+  highlight: 0
+
+- title: "A dual-channel ensembled deep convolutional neural network for facial expression recognition in the wild"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1111/coin.12586
+    display: Computational Intelligence, Wiley, 2023 (SCI Impact Factor – 2.8)
+  highlight: 0
+
+- title: "Fast facial expression recognition using Boosted Histogram of Oriented Gradient (BHOG) features"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s10044-022-01112-0
+    display: Pattern Analysis and Applications, Springer, 2023 (SCI Impact Factor – 3.9)
+  highlight: 0
+
+- title: "An Attention-guided Convolutional Neural Network for Automated Classification of Brain Tumor from MRI"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s00521-022-07742-z
+    display: Neural Computing and Applications, Springer, 2023 (SCI Impact Factor – 6.0)
+  highlight: 0
+
 - title: "Reconstructing Synthetic Lensless Images in the Low-Data Regime"
   image: bmvc.png
   description: Our paper shows that it is possible to perform domain-restricted low-shot reconstruction of lensless computational images. We demonstrate an improvement in the reconstruction performance of untrained neural networks by providing very few domain-restricted images for pre-training. We were able to achieve faster convergence with higher reconstruction fidelity with as low as 10 images for pre-training.
@@ -16,14 +88,8 @@
     display: ICIP 2023-International Conference on Image Processing, Kuala Lumpur, Malaysia
   highlight: 1
 
-- title: "ParaColorizer: Realistic Image Colorization using Parallel Generative Networks"
-  image: BSCCOgap.png
-  description: We developed GANs for simultaneous foreground and background colorization, with a dense adaptive fusion network. Our method outperformed existing ones with limited training data. We also introduced a new human-visual realism test to address limitations in traditional metrics.
-  authors: Himanshu Kumar*, Abeer Banerjee*, Sumeet Saurav, Sanjay Singh
-  link:
-    url: https://doi.org/10.1007/s00371-023-03067-7
-    display: The Visual Computer, Springer, 2023 (SCI Impact Factor – 3.5)
-  highlight: 0
+
+  
 
 # - title: "Direct evidence for Cooper pairing without a spectral gap in a disordered superconductor above Tc"
 #   image: Pairs3.png
