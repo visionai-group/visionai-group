@@ -1,10 +1,10 @@
 - title: "Reconstructing Synthetic Lensless Images in the Low-Data Regime"
   image: imageaward_edited.png
-  description: Our paper shows that it is possible to perform domain-restricted low-shot reconstruction of lensless computational images. We demonstrate an improvement in the reconstruction performance of untrained neural networks by providing very few domain-restricted images for pre-training. We were able to achieve faster convergence with higher reconstruction fidelity with as low as 10 images for pre-training.
-  authors: Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
+  description: Shot noise has been suggested for a long time as a tell-tale probe for Majorana bound states. We are the first to carry out local tunneling shot noise measurements on the putative vortex Majorana states.
+  authors: J-F Ge, KM Bastiaans, D Chatzopoulos, D Cho, WO Tromp, T Benschop, J Niu, G Gu, MP Allan
   link:
-    url: https://abeerbanerjee.github.io/BMVC-Lensless/
-    display: BMVC 2023: British Machine Vision Conference, Aberdeen, UK
+    url: https://www.nature.com/articles/s41467-023-39109-w
+    display: Nature Communications 4, 3341 (2023)
   highlight: 1
   news2: See [news item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) by Michelle Willebrands
 
