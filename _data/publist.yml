@@ -124,6 +124,165 @@
     display: CVIP 2023-International Conference on Computer Vision and Image Processing, IIT Jammu, India
   highlight: 0
 
+- title: "CACLA based local path planner for drones navigating unknown indoor corridors"
+  image: BSCCOgap.png
+  description: 
+  authors: Samarth Singh, Kaushal Kishore, Sagar Dalai, Mahammad Irfan, Sanjay Singh, Shaik Akbar, Gurpreet Sachdeva, Ramesh Yechungunja
+  link:
+    url: https://doi.org/10.1109/MIS.2022.3173504
+    display: IEEE Intelligent Systems, IEEE, 2022 (SCI Impact Factor – 6.4)
+  highlight: 0
+
+- title: "Real-time eye state recognition using dual convolutional neural network ensemble"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Prashant Gidde, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s11554-022-01211-5
+    display: Journal of Real-Time Image Processing, Springer, 2022 (SCI Impact Factor – 3.0)
+  highlight: 0
+
+- title: "Three-dimensional DenseNet Self-Attention Neural Network for Automatic Detection of Student’s Engagement"
+  image: BSCCOgap.png
+  description: 
+  authors: Naval Kishore Mehta, Shyam Sunder Prasad, Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s10489-022-03200-4
+    display: Applied Intelligence, Springer, 2022 (SCI Impact Factor – 5.3)
+  highlight: 0
+
+- title: "Vision-based techniques for fall detection in 360-degree videos using deep learning: Dataset and baseline results"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s11042-022-12366-5
+    display: Multimedia Tools and Applications, Springer, 2022 (SCI Impact Factor – 3.6)
+  highlight: 0
+
+- title: "Dual integrated convolutional neural network for real-time facial expression recognition in the wild"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Prashant Gidde, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s00371-021-02069-7
+    display: The Visual Computer, Springer, 2022 (SCI Impact Factor – 3.5)
+  highlight: 0
+
+- title: "A dual-stream fused neural network for fall detection in multi-camera and 360∘ videos"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s00521-021-06495-5
+    display: Neural Computing and Applications, Springer, 2022 (SCI Impact Factor – 6.0)
+  highlight: 0
+
+- title: "Handling Non-stationarity in E-nose Design : A Review"
+  image: BSCCOgap.png
+  description: 
+  authors: Vishakha Pareek, Santanu Chaudhury, Sanjay Singh
+  link:
+    url: https://doi.org/10.1108/SR-02-2021-0038
+    display: Sensor Review, Emerald, 2022 (SCI Impact Factor – 1.6)
+  highlight: 0
+
+- title: "Deep Learning Inspired Intelligent Embedded System for Haptic Rendering of Facial Emotions to the Blind"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Anil Kumar Saini, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s00521-021-06613-3
+    display: Neural Computing and Applications, Springer, 2022 (SCI Impact Factor – 6.0)
+  highlight: 0
+
+- title: "A Non-invasive Ultrasensitive Diagnostic Approach for COVID-19 Infection using Salivary Label-free SERS Fingerprinting and Artificial Intelligence"
+  image: BSCCOgap.png
+  description: 
+  authors: Varsha Karunakaran, Manu Joseph, Induprabha Yadev, Himanshu Sharma, Shamna K., Sumeet Saurav, Remanan Sreejith,  Veena Anand, Rosenara Beegum, Regi S, Thomas Iype, Sarada K L,  Nizarudheen A, Sharmad S, Rishi Sharma, Ravindra  Mukhiya, Eshwar Thouti, Karuvath Yoosaf, Joshy Joseph, Parukuttyamma Sujatha Devi, Sivaraman Savithri, Ajay Agarwal, Sanjay Singh, Kaustabh Maiti
+  link:
+    url: https://doi.org/10.1016/j.jphotobiol.2022.112545
+    display: Journal of Photochemistry and Photobiology B: Biology, Elsevier, 2022 (SCI Impact Factor – 5.4)
+  highlight: 0
+
+- title: "Convolutional Ensembling based Few-Shot Defect Detection Technique"
+  image: BSCCOgap.png
+  description: 
+  authors: Soumyajit Karmakar, Abeer Banerjee, Prashant Sadashiv Gidde, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1145/3571600.3571607
+    display: ICVGIP 2022-Indian Conference on Computer Vision, Graphics and Image Processing, IIT Gandhinagar, India
+  highlight: 0
+
+- title: "Lensless Image Reconstruction with Untrained Neural Network"
+  image: BSCCOgap.png
+  description: 
+  authors: Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/978-3-031-25825-1_31
+    display: IVCNZ 2022-International Conference on Image and Vision Computing New Zealand, Auckland, New Zealand
+  highlight: 0
+
+- title: "Real-Time Privacy-Preserving Fall Detection using Dynamic Vision Sensors"
+  image: BSCCOgap.png
+  description: 
+  authors: Shyam Sunder Prasad, Naval Kishore Mehta, Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1109/INDICON56171.2022.10039894
+    display: IEEE INDICON 2022-India Council International Conference, Cochin, India
+  highlight: 0
+
+- title: "Gaze Detection using Encoded Retinomorphic Events"
+  image: BSCCOgap.png
+  description: 
+  authors: Abeer Banerjee, Shyam Sunder Prasad, Naval Kishore Mehta, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/978-3-031-27199-1_44
+    display: IHCI 2022-International Conference on Intelligent Human Computer Interaction, Tashkent University of Information Technologies, Tashkent, Uzbekistan
+  highlight: 0
+
+- title: "A Self Explainable Face Anti-Spoofing Solution based on Depth-Estimation"
+  image: BSCCOgap.png
+  description: 
+  authors: Shyam Sunder Prasad, Naval Kishore Mehta, Ankit Shukla, Pranav Mahajan, Arshdeep Singh, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/978-981-19-7513-4_10
+    display: FICTA 2022-International Conference on Frontiers of Intelligent Computing: Theory and Applications (Best Research Paper Award), TNIT Mizoram, India
+  highlight: 0
+
+- title: "Validation of Expert System Enhanced Deep Learning Algorithm for Automated Screening for COVID-Pneumonia on Chest X-rays"
+  image: BSCCOgap.png
+  description: 
+  authors: Prashant Sadashiv Gidde, Shyam Sunder Prasad, Ajay Pratap Singh, Nitin Bhatheja, Satyartha Prakash, Prateek Singh, Aakash Saboo, Rohit Takhar, Salil Gupta, Sumeet Saurav, Raghunandanan M. V., Amritpal Singh, Viren Sardana, Harsh Mahajan, Arjun Kalyanpur, Atanendu Shekhar Mandal, Vidur Mahajan, Anurag Agrawal, Anjali Agrawal, Vasantha Kumar Venugopal, Sanjay Singh, Debasis Dash
+  link:
+    url: https://doi.org/10.1038/s41598-021-02003-w
+    display: Scientific Reports, Nature, Elsevier, 2021 (SCI Impact Factor – 4.6)
+  highlight: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 
