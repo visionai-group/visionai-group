@@ -6,73 +6,41 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
+## VisionAI
 
-## Leiden
-
-#### Timelapse of our STM assembling [(see LION news item)](https://www.physics.leidenuniv.nl/index.php?id=11573&news=867&type=lion&ln=EN):
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3iKvUMv1h5A" frameborder="0" allowfullscreen></iframe>
-
-#### Gallery
-(Right-click *'view image'* to see a larger image.)
-{% assign number_printed = 0 %}
-{% for pic in site.data.pictures_Leiden %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-3 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd > 2 %}
-</div>
-{% endif %}
-
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 4 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% if even_odd == 2 %}
-</div>
-{% endif %}
-
-{% if even_odd == 3 %}
-</div>
-{% endif %}
-
-<p> &nbsp; </p>
-
-First advertisement.
+#### Our Team
+Dr. Sanjay Singh and team won the Padma Bhushan Dr. Amarjit Singh Memorial CEERI Foundation Day Research Excellence Award on September 21, 2022.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageLeiden_red.jpg" width="60%" >
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/team.jpeg" width="75%">
 </figure>
 
-
-## ETHZ
-From the [group of Andreas Wallraff](http://www.qudev.ethz.ch/).
+#### Lab initiatives
+“JIGYASA” is one of the major initiatives taken up by CSIR at national level for further widening and deepening its Scientific Social Responsibility (SSR). Our lab actively participates in technology demonstrations to students, scientists, and industry professionals, as a part of this program.
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageETH_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/lab-act.png" width="75%">
 </figure>
 
-## Cornell
-From the [group of Seamus JC Davis](http://davisgroup.lassp.cornell.edu).
+## Chennai
+Accompanied by Dr. Sumeet Saurav, our team, comprising Naval Kishore Mehta, Himanshu Kumar, and Abeer Banerjee, visited the KH Group's leather factory. During our visit, we presented a demonstration of hand-segmentation technology for worker safety, engaged in data collection, and enjoyed exploring the surrounding areas. 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageCornell_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/chennai.png" width="75%">
 </figure>
 
-## St Andrews
-From the [group of Felix Baumberger](http://dqmp.unige.ch/baumberger/) (now at University of Geneva).
+## Kuala Lumpur
+Our team member, Abeer Banerjee, went to Kuala Lumpur, Malaysia, to present our research on lensless image reconstruction at the International Conference on Image Processing, 2023. 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/WebpageSTA_red.jpg" width="60%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/kuala.png" width="75%">
+</figure>
+
+## Nagasaki
+Dr. Sanjay Singh and Seema Choudhary went to the Nagasaki University in Japan as a part of the JST-Sakura Science Programme, 2022.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/nagasaki.png" width="75%">
+</figure>
+
+## Hiroshima
+Dr. Sanjay Singh, Dr. Sumeet Saurav, along with team members Shyam Sunder Prasad and Naval Kishore Mehta, made a visit to Hiroshima University in Japan.
+<figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/hiroshima.png" width="75%">
 </figure>
