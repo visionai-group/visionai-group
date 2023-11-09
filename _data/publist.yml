@@ -438,4 +438,13 @@
     url: 
     display: ICVGIP 2016-Workshop on Computer Vision Applications, In conjunction with 10th Indian Conference on Computer Vision, Graphics and Image Processing, IIT, Guwahati, India
   highlight: 0
+
+- title: "Analyzing impact of image scaling algorithms on viola-jones face detection framework"
+  image: BSCCOgap.png
+  description: 
+  authors: Himanshu Sharma, Sumeet Saurav, Sanjay Singh, Anil K. Saini, Ravi Saini
+  link:
+    url: 
+    display: ICACCI 2015-International Conference on Advances in Computing, Communications and Informatics, Kochi, Kerala, India
+  highlight: 0
   
