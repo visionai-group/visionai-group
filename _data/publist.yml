@@ -258,3 +258,175 @@
     url: https://doi.org/10.1038/s41598-021-02003-w
     display: Scientific Reports, Nature, Elsevier, 2021 (SCI Impact Factor – 4.6)
   highlight: 0
+
+- title: "Hybrid 3DCNN-RBM Network for Gas Mixture Concentration Estimation with Sensor Array"
+  image: BSCCOgap.png
+  description: 
+  authors: Vishakha Pareek, Santanu Chaudhury, Sanjay Singh
+  link:
+    url: https://doi.org/10.1109/JSEN.2021.3105414
+    display: IEEE Sensors Journal, IEEE, 2021 (SCI Impact Factor – 4.3)
+  highlight: 0
+
+- title: "Facial Expression Recognition Using Dynamic Local Ternary Patterns With Kernel Extreme Learning Machine Classifier"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1109/ACCESS.2021.3108029
+    display: IEEE Access, IEEE, 2021 (SCI Impact Factor – 4.9)
+  highlight: 0
+
+- title: "Three-dimensional CNN-inspired deep learning architecture for Yoga pose recognition in the real-world environment"
+  image: BSCCOgap.png
+  description: 
+  authors: Shrajal Jain, Aditya Rustagi, Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s00521-020-05405-5
+    display: Neural Computing and Applications, Springer, 2021 (SCI Impact Factor – 6.0)
+  highlight: 0
+
+- title: "EmNet: a deep integrated convolutional neural network for facial emotion recognition in the wild"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Ravi Saini, Sanjay Singh
+  link:
+    url: https://doi.org/10.1007/s10489-020-02125-0
+    display: Applied Intelligence, Springer, 2021 (SCI Impact Factor – 5.3)
+  highlight: 0
+
+- title: "Gas Discrimination & Quantification using Sensor Array with 3D Convolution Regression Dual Network"
+  image: BSCCOgap.png
+  description: 
+  authors: Vishakha Pareek, Santanu Chaudhury, Sanjay Singh
+  link:
+    url: 
+    display: IDAACS 2021-IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems, Cracow, Poland
+  highlight: 0
+
+- title: "Online Pattern Recognition of Time-series Gas Sensor Data with Adaptive 2D-CNN Ensemble"
+  image: BSCCOgap.png
+  description: 
+  authors: Vishakha Pareek, Santanu Chaudhury, Sanjay Singh
+  link:
+    url: 
+    display: IDAACS 2021-IEEE International Conference on Intelligent Data Acquisition and Advanced Computing Systems, Cracow, Poland
+  highlight: 0
+
+- title: "Smart Gas Sensing using Single MOS Gas Sensor with Adaptive Gradient Boosting"
+  image: BSCCOgap.png
+  description: 
+  authors: Vishakha Pareek, Rahul Prajesh, Santanu Chaudhury, Sanjay Singh
+  link:
+    url: 
+    display: Joint 10th International Conference on Informatics, Electronics & Vision (ICIEV 2021) and 5th International Conference on Imaging, Vision & Pattern Recognition (icIVPR 2021), Kitakyushu-city, Fukuoka, Japan
+  highlight: 0
+
+- title: "Video Classification using SlowFast Network via Fuzzy rule"
+  image: BSCCOgap.png
+  description: 
+  authors: Rituraj, Aruna Tiwari, Santanu Chaudhury, Sanjay Singh, Sumeet Saurav
+  link:
+    url: 
+    display: FUZZ-IEEE 2021-International Conference on Fuzzy Systems, Luxembourg, Europe
+  highlight: 0
+
+- title: "Real-Time Yawn Extraction for Driver’s Drowsiness Detection"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Mehul Kasliwal, Raghav Agrawal, Sanjay Singh, Ravi Saini
+  link:
+    url: 
+    display: FICTA 2020-International Conference on Frontiers of Intelligent Computing-Theory and Applications, Surathkal, Karnataka, India
+  highlight: 0
+
+- title: "Real-time high-resolution video stabilization using high-frame-rate jitter sensing"
+  image: BSCCOgap.png
+  description: 
+  authors: Sushil Raut, Kohei Shimasaki, Sanjay Singh, Takeshi Takaki,Idaku Ishii
+  link:
+    url: 
+    display: ROBOMECH Journal, Springer, 2019
+  highlight: 0
+
+- title: "Compressive sensing based privacy for fall detection"
+  image: BSCCOgap.png
+  description: 
+  authors: Ronak Gupta, Prashant Anand, Santanu Chaudhury, Brejesh Lall, Sanjay Singh
+  link:
+    url: 
+    display: NCVPRIPG 2019-National Conference on Computer Vision, Pattern Recognition, Image Processing, and Graphics, Hubballi, India
+  highlight: 0
+
+- title: "Power line segmentation in aerial images using convolutional neural networks"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Prashant Gidde, Sanjay Singh, Ravi Saini
+  link:
+    url: 
+    display: PReMI 2019-International Conference on Pattern Recognition and Machine Intelligence, Tezpur, India
+  highlight: 0
+
+- title: "Real-time vehicle detection in aerial images using skip-connected convolution network with region proposal networks"
+  image: BSCCOgap.png
+  description: 
+  authors: Somsukla Maiti, Prashant Gidde, Sumeet Saurav, Sanjay Singh, Santanu Chaudhury
+  link:
+    url: 
+    display: PReMI 2019-International Conference on Pattern Recognition and Machine Intelligence, Tezpur, India
+  highlight: 0
+
+- title: "Yawn detection for driver’s drowsiness prediction using bi-directional LSTM with CNN features"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Shubhad Mathur, Ishan Sang, Shyam Sunder Prasad, Sanjay Singh
+  link:
+    url: 
+    display: IHCI 2019-International Conference on Intelligent Human Computer Interaction, IIIT Allahabad, India
+  highlight: 0
+
+- title: "Facial expression recognition using histogram of oriented gradients with SVM-RFE selected features"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Sanjay Singh, Ravi Saini
+  link:
+    url: 
+    display: HIS 2019-International Conference on Hybrid Intelligent Systems, Bhopal, India
+  highlight: 0
+
+- title: "Dynamic image networks for human fall detection in 360-degree videos"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, T. N. D. Madhu Kiran, B. Sravan Kumar Reddy, K. Sanjay Srivastav, Sanjay Singh, Ravi Saini
+  link:
+    url: 
+    display: ICVGIP 2018-3rd Workshop on Computer Vision Applications-In conjunction with 11th Indian Conference on Computer Vision, Graphics and Image Processing, IIIT, Hyderabad, India
+  highlight: 0
+
+- title: "Activity recognition for indoor fall detection in 360-degree videos using deep learning techniques"
+  image: BSCCOgap.png
+  description: 
+  authors: Raunak Manekar, Sumeet Saurav, Somsukla Maiti, Sanjay Singh, Santanu Chaudhury, Ravi Kumar, Kamal Chaudhary
+  link:
+    url: 
+    display: CVIP 2018-International Conference on Computer Vision and Image Processing, IIITDM Jabalpur, India
+  highlight: 0
+
+- title: "Image-based facial expression recognition using local neighborhood difference binary pattern"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Sanjay Singh, Madhulika Yadav, Ravi Saini
+  link:
+    url: 
+    display: CVIP 2018-International Conference on Computer Vision and Image Processing, IIITDM Jabalpur, India
+  highlight: 0
+
+- title: "Facial expression recognition using improved adaptive local ternary pattern"
+  image: BSCCOgap.png
+  description: 
+  authors: Sumeet Saurav, Sanjay Singh, Ravi Saini, Madhulika Yadav
+  link:
+    url: 
+    display: CVIP 2018-International Conference on Computer Vision and Image Processing, IIITDM Jabalpur, India
+  highlight: 0
+  
