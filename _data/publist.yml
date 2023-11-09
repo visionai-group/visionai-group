@@ -80,7 +80,7 @@
   highlight: 0
 
 - title: "Reconstructing Synthetic Lensless Images in the Low-Data Regime"
-  image: bmvc.gif
+  image: blob.gif
   description: Our paper shows that it is possible to perform domain-restricted low-shot reconstruction of lensless computational images. We demonstrate an improvement in the reconstruction performance of untrained neural networks by providing very few domain-restricted images for pre-training. We were able to achieve faster convergence with higher reconstruction fidelity with as low as 10 images for pre-training.
   authors: Abeer Banerjee, Himanshu Kumar, Sumeet Saurav, Sanjay Singh
   link:
@@ -89,7 +89,7 @@
   highlight: 1
 
 - title: "Physics-informed Deep Deblurring: Over-Parameterized Vs. Under-Parameterized"
-  image: imageaward_edited.png
+  image: lenun.gif
   description: Our paper shows that lensless images can be reconstructed using under-parameterized networks with less than 10 thousand parameters. We compare the reconstruction performance with untrained over-parameterized networks having over 30 million parameters. We employ a physics-informed consistency loss function to optimize our network, leading to faster convergence and better reconstruction quality.
   authors: Abeer Banerjee, Sumeet Saurav, Sanjay Singh
   link:
