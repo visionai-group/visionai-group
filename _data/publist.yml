@@ -429,4 +429,13 @@
     url: 
     display: CVIP 2018-International Conference on Computer Vision and Image Processing, IIITDM Jabalpur, India
   highlight: 0
+
+- title: "High frame rate real-time scene change detection system"
+  image: BSCCOgap.png
+  description: 
+  authors: Sanjay Singh, Ravi Saini, Sumeet Saurav, Pramod Tanwar, Kota S. Raju, Anil K. Saini, Santanu Chaudhury, Idaku Ishii
+  link:
+    url: 
+    display: ICVGIP 2016-Workshop on Computer Vision Applications, In conjunction with 10th Indian Conference on Computer Vision, Graphics and Image Processing, IIT, Guwahati, India
+  highlight: 0
   
