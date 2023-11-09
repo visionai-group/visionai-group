@@ -12,22 +12,25 @@
   photo: Shyam.png
   info: PhD student
   email: shyam.ceeri15a@acsir.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Architectures for Deep/Spiking Neural Networks for Computer Vision Applications
+  education2: <a href="https://www.linkedin.com/in/shyam-sunder-39088911a/">Profile</a>
 
 - name: Naval Kishore Mehta
   photo: Naval.png
   info: Integrated PhD student
   email: naval.ceeri18a@acsir.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Video Action Recognition
+  education2: <a href="https://www.linkedin.com/in/naval-kishore-m-33141378/">Profile</a> 
 
 - name: Seema Choudhary
   photo: seema.jpg
   info: PhD student
   email: seema.ceeri21j@acsir.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Vision-based Systems for Intelligent Monitoring
+  education2: <a href="https://www.linkedin.com/in/seema-choudhary-55ab3311b/">Profile</a>
 
 - name: Abeer Banerjee
   photo: me2023pass.jpg
@@ -35,33 +38,28 @@
   email: abeer.ceeri20a@acsir.res.in
   number_educ: 2
   education1: Computational Imaging.
-  education2: <a href="https://abeerbanerjee.github.io/">Website</a>
+  education2: <a href="https://abeerbanerjee.github.io/">Profile</a>
 
 - name: Himanshu Kumar
   photo: himanshu.png
   info: Project Associate-I
   email: himanshu.ceeri20a@acsir.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Image Synthesis and Generation
+  education2: <a href="https://sites.google.com/view/himanshukumar20f/">Profile</a>
 
 - name: Arvind Sihag
   photo: arvind.jpeg
   info: Senior Project Associate
   email: arvind.ceeri20a@acsir.res.in
-  number_educ: 1
+  number_educ: 2
   education1: System Integration and Network Management
+  education2: <a href="https://www.linkedin.com/in/arvind-sihag/">Profile</a>
 
 - name: Rakesh Kumar
   photo: rakesh.jpeg
   info: PhD student
   email: rakesh.ceeri23j@acsir.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Vision-based Systems for Intelligent Monitoring
-
-
-
-
-
-
-
-
+  education2: <a href="https://www.linkedin.com/in/rakesh-singh-badal-690679132/">Profile</a>
