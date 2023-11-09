@@ -2,15 +2,18 @@
   photo: sanjay.jpg
   info: Principal Scientist and Group Head
   email: sanjay@ceeri.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Computer Vision, Machine Learning, Artificial Intelligence, VLSI based Hardware Accelerators, Prototyping with FPGAs, Embedded Implementations using GPUs, CPUs, and FPGAs.
+  education2: <a href="https://sites.google.com/site/sanjaycsirceeri/">Profile</a>
+
   
 - name: Dr. Sumeet Saurav
   photo: sumeet.jpg
   info: Senior Scientist and Lab-in-charge
   email: sumeet@ceeri.res.in
-  number_educ: 1
+  number_educ: 2
   education1: Machine Learning & Pattern Recognition, Computer Vision Algorithms, Digital VLSI Architecture Design, FPGA based Embedded System Design and Prototyping, Deep Learning Architecture For Computer Vision Applications
+  education2: <a href="https://www.ceeri.res.in/profiles/sumeet-saurav/">Profile</a>
 
 # - name: "This could be you !"
 #   photo: rock.jpg
