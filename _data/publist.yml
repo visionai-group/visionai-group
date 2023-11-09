@@ -1,3 +1,12 @@
+- title: "2023"
+  image: BSCCOgap.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  
 - title: "STemGAN: Spatio-Temporal Generative Adversarial Network for Video Anomaly detection"
   image: BSCCOgap.png
   description:
@@ -122,6 +131,15 @@
   link:
     url: 
     display: CVIP 2023-International Conference on Computer Vision and Image Processing, IIT Jammu, India
+  highlight: 0
+
+- title: "2022"
+  image: BSCCOgap.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 
   highlight: 0
 
 - title: "CACLA based local path planner for drones navigating unknown indoor corridors"
@@ -250,6 +268,15 @@
     display: FICTA 2022-International Conference on Frontiers of Intelligent Computing - Theory and Applications (Best Research Paper Award), TNIT Mizoram, India
   highlight: 0
 
+- title: "2021"
+  image: BSCCOgap.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 
+  highlight: 0
+
 - title: "Validation of Expert System Enhanced Deep Learning Algorithm for Automated Screening for COVID-Pneumonia on Chest X-rays"
   image: BSCCOgap.png
   description: 
@@ -329,6 +356,15 @@
   link:
     url: 
     display: FUZZ-IEEE 2021-International Conference on Fuzzy Systems, Luxembourg, Europe
+  highlight: 0
+
+- title: "Before 2021"
+  image: BSCCOgap.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 
   highlight: 0
 
 - title: "Real-Time Yawn Extraction for Driver’s Drowsiness Detection"
@@ -437,15 +473,6 @@
   link:
     url: 
     display: ICVGIP 2016-Workshop on Computer Vision Applications, In conjunction with 10th Indian Conference on Computer Vision, Graphics and Image Processing, IIT, Guwahati, India
-  highlight: 0
-
-- title: "2016"
-  image: BSCCOgap.png
-  description: 
-  authors: 
-  link:
-    url: 
-    display: 
   highlight: 0
 
 - title: "Analyzing impact of image scaling algorithms on viola-jones face detection framework"
