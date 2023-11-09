@@ -126,7 +126,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Visitors, and Ex-members
+## Visitors and Ex-members
 <div class="row">
 
 <div class="col-sm-4 clearfix">
