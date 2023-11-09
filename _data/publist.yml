@@ -439,6 +439,15 @@
     display: ICVGIP 2016-Workshop on Computer Vision Applications, In conjunction with 10th Indian Conference on Computer Vision, Graphics and Image Processing, IIT, Guwahati, India
   highlight: 0
 
+- title: "2016"
+  image: BSCCOgap.png
+  description: 
+  authors: 
+  link:
+    url: 
+    display: 
+  highlight: 0
+
 - title: "Analyzing impact of image scaling algorithms on viola-jones face detection framework"
   image: BSCCOgap.png
   description: 
