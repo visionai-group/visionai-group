@@ -144,7 +144,7 @@ permalink: /team/
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Other members</h4>
+<h4>Ex-members</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
