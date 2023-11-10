@@ -9,7 +9,7 @@ permalink: /
 <figure class="first">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/vai-removebg.png" style="width: 420px">
 </figure>
-This is the official website of Vision and AI Research Group (VisionAI) at the [CSIR-CEERI](https://www.ceeri.res.in/). VisionAI group at CSIR-CEERI consists of a dynamic and forward-thinking team dedicated to pushing the boundaries of computational imaging and artificial intelligence. With a keen focus on advancing cutting-edge technologies, our research spans a wide spectrum of interests.
+This is the official website of the Vision and AI Research Group (VisionAI) at [CSIR-CEERI](https://www.ceeri.res.in/). VisionAI consists of a dynamic and forward-thinking team dedicated to pushing the boundaries of artificial intelligence for image and video processing, understanding, and computational imaging. With a keen focus on advancing cutting-edge technologies, our research spans a wide spectrum of interests.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -55,7 +55,7 @@ This is the official website of Vision and AI Research Group (VisionAI) at the [
 </div>
 
 
-From pioneering lensless imaging techniques to tackling complex challenges like face anti-spoofing, fall detection using neuromorphic sensors, human eye-gaze prediction with neuromorphic sensors, and video action recognition, we continuously strive to explore innovative solutions to real-world problems. Additionally, our expertise extends to areas such as facial expression recognition, encompassing a holistic approach to computer vision and machine learning. Our team's unwavering commitment to excellence and innovation makes us a hub for groundbreaking research and technology development in these multifaceted domains. Our distinctive engagement with both the academic and industrial sectors has led to the initiation of funded projects and valuable collaborations with prominent organizations such as LG, Samsung, the Council for Scientific and Industrial Research, the Department of Science and Technology, and various others.  
+From pioneering lensless imaging techniques to tackling complex challenges like face anti-spoofing, fall detection and human eye-gaze prediction with neuromorphic sensors, and video action recognition, we continuously strive to explore innovative solutions to real-world problems. Also, our expertise extends to areas such as facial expression recognition, encompassing a holistic approach to computer vision and machine learning. Our team's unwavering commitment to excellence and innovation makes us a hub for groundbreaking research and technology development in these multifaceted domains. Our distinctive engagement with both the academic and industrial sectors has led to funded projects and valuable collaborations with prominent organizations such as LG, Samsung, the Council for Scientific and Industrial Research, the Department of Science and Technology, and various others.  
 
  **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
