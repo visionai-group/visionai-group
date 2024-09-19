@@ -6,7 +6,16 @@
     url: 
     display: 
   highlight: 0
-  
+
+- title: "Enhancing Skeleton-based Action Recognition using a Knowledge-driven Shift Graph Convolutional Network"
+  image: BSCCOgap.png
+  description:
+  authors: Ananya Roy, Aruna Tiwari, Sumeet Saurav, Sanjay Singh
+  link:
+    url: https://doi.org/10.1016/j.compeleceng.2024.109633
+    display: Computers and Electrical Engineering, Elsevier, 2024 (SCI Impact Factor – 4.0)
+  highlight: 0
+
 - title: "STemGAN: Spatio-Temporal Generative Adversarial Network for Video Anomaly detection"
   image: BSCCOgap.png
   description:
