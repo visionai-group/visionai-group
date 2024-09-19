@@ -1,5 +1,5 @@
 ---
-title: "VisionAI - Vacancies"
+title: "VisionAI - Opportunities"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
